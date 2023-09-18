@@ -36,4 +36,5 @@ jobs:
         --region asia-southeast1 \
         --platform managed \
         --allow-unauthenticated \
-        --max-instances=10
+        --max-instances=10 \
+        --port=80
